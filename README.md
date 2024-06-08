@@ -19,3 +19,15 @@
 ## 模组兼容性
 我们**禁用了Among Us官方反作弊**,因此我们支持`Host-only`类型模组。<br>
 我们装载了[Reactor.Impostor](https://github.com/NuclearPowered/Reactor.Impostor),因此我们同时也支持`非Host-only`类型模组。
+## Todo
+ - 多区域服务器支持
+   - [ ] 美国-洛杉矶(≈140ms)
+   - [x] 中国-香港(≈35ms)
+   - [ ] (中国)浙江-宁波(≈30ms)
+   - [ ] (中国)江苏-宿迁(≈30ms)
+   - [ ] (中国)湖北-十堰(≈25ms)
+ - [x] 加密服务器与客户端的连接以支持手机端Among Us
+ - [ ] 第三方反作弊支持
+ - [ ] 服务器推送机制优化
+ - [x] 非`Host`模组支持
+ - [x] `Host`模组支持
